@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{RXBc:function(n,e,t){"use strict";t.r(e),t.d(e,"default",(function(){return u}));var a=t("q1tI"),r=t.n(a);function u(){return r.a.createElement("div",null,r.a.createElement("h1",null,"Green Eggs")," ",r.a.createElement("p",null,"...and ham")," ")}}}]);
+//# sourceMappingURL=component---src-pages-index-js-1c38e5b9680cbe33c61d.js.map
